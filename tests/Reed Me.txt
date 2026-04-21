@@ -1,0 +1,7 @@
+To run the system after I applied the patches of lab 3 follow the following steps: 
+•	Load the password of the server to the OS:
+	o	In Linux cmd: export SERVER_PASSWORD='!Q#E%T&U8i6y4r2w' 
+	o	In Windows: $env: SERVER_PASSWORD="!Q#E%T&U8i6y4r2w" 
+•	Load the encryption/decryption key to the OS:
+	o	In Linux: export NETWORK_KEY='1234567890abcdef' 
+	o	In Windows:  $env: NETWORK_KEY=”1234567890abcdef”
